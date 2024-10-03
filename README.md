@@ -1,1 +1,1 @@
-# Typemaster
+A simple and interactive website that helps users improve their typing speed and accuracy. The site features a user-friendly interface and real-time feedback, allowing users to track their progress and enhance their typing skills.
